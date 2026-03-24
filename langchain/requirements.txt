@@ -31,3 +31,6 @@ streamlit
 
 # groq
 langchain-groq
+
+pydantic 
+email-validator
