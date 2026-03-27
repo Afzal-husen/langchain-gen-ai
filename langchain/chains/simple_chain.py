@@ -19,3 +19,4 @@ chain = template | model | parser
 result = chain.invoke({"topic": "AI engineering"})
 
 print(result)
+print(chain.get_graph().print_ascii())
