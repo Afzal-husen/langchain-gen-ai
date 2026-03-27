@@ -28,3 +28,4 @@ chain = template | model | parser
 final_output = chain.invoke({"character":"sung jinwoo from solo leveling"})
 
 print(final_output)
+print(type(final_output))
