@@ -36,3 +36,5 @@ langchain-groq
 
 pydantic 
 email-validator
+
+pypdf
