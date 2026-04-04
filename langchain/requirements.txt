@@ -46,3 +46,5 @@ langchain-experimental
 chromadb
 
 langchain-chroma
+
+faiss-cpu
